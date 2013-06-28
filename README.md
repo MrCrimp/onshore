@@ -1,4 +1,4 @@
 onshore
 =======
 
-spectral parser
+noaa spectral bullen parser in JavaScript
